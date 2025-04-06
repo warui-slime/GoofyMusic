@@ -60,3 +60,5 @@ Goofy is a feature-rich music streaming platform designed to provide users with 
 ## Homepage
 ![goofy](https://github.com/user-attachments/assets/5870d746-23fe-417b-a484-e2cf9ab20e33)
 
+##Video
+https://www.linkedin.com/posts/rohan-saini-warui_musicstreaming-webdevelopment-ajax-activity-7230180320241729536-BCRr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-S6zIBdGunKRGB7rL8dHIcjw-dCft5W1s
